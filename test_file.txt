@@ -1,3 +1,6 @@
 I love india.
 I know Git commands.
-
+Make more commits.
+Check the commit id.
+I have done congif in git.
+"check the working"
